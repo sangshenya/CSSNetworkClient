@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CSSNetworkClient_Example' do
+  pod 'CSSNetworkClient', :path => '../'
+
+  target 'CSSNetworkClient_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
