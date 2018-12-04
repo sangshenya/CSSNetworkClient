@@ -10,39 +10,50 @@
 		089F4386825942714A53C453D8E235FE /* NSDictionary+Addition.m in Sources */ = {isa = PBXBuildFile; fileRef = 6802724DE6F9630858ADC5986FDC6B84 /* NSDictionary+Addition.m */; };
 		0B55685150056709DE5B2B1F22A93044 /* UIView+Addition.m in Sources */ = {isa = PBXBuildFile; fileRef = F7D90CEB5A6D408CCDE66555943D7650 /* UIView+Addition.m */; };
 		1AF3D6A9BAFCAEC3D649A00C4B705208 /* CSSMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 5C26F081AB76B9D103F5B5BBE890BC4E /* CSSMacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		24CD50C7FBC909CAF8F6314D7B34D5A5 /* CSSHTTPOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = F9C920AE42B507C75A565E484780ADB7 /* CSSHTTPOperation.m */; };
 		24D3C4E5BA1B7E24B7C2D08380EEC18C /* CSSKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B1A6B5E115B4DE8642CB6F22A298D424 /* CSSKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		251549E5AFFBD27B0784AB4BA735FB36 /* NSDictionary+Addition.h in Headers */ = {isa = PBXBuildFile; fileRef = 703F6A4EAAC035F9167474B8F2E41B3D /* NSDictionary+Addition.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		33887FA1CC4B954580A312424306D401 /* CSSCGUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = CA9F5FA3F1B183B93931124286D1B33D /* CSSCGUtilities.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3761A5457574BB54B0D0FC8AEE925458 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		3761A5457574BB54B0D0FC8AEE925458 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 16024C05F422FA46EFBD10CDC2E657D8 /* Foundation.framework */; };
 		3DD61DE5CD912278D8204532BCF5D283 /* CSSCGUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 186BEC42CB251EE99B83C2C88F4AE7AE /* CSSCGUtilities.m */; };
 		432CFFE0F513A26C66DA677F405B9310 /* CSSKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C77DD0C86B93C8DD4CBF8DF407CF280F /* CSSKit-dummy.m */; };
 		496E7D0EC4E9DD1CB38CF1C8D0BD1E6B /* NSDate+Addition.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C186F884A6F9359D7EE85A574FA98FA /* NSDate+Addition.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		508C74A1E1C512D6569E87F3BA730F36 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		4AE427B3CFE1C8F17377AC3F00141E8F /* CSSKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A5925E0DD8268D3BD6BB718A2327E7F /* CSSKit.framework */; };
+		4C0C900722AC4253365F710C889B7A19 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 16024C05F422FA46EFBD10CDC2E657D8 /* Foundation.framework */; };
+		51246BC3B051C63EBA40503D401A4AED /* Pods-CSSNetworkClient_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EE197233A887028655C8040618A0D3A6 /* Pods-CSSNetworkClient_Example-dummy.m */; };
+		54C80FB0DCD42CA71CEDD46147E19BAF /* CSSNetworkClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 05D843AAEC2B7649D2D7DD6666AD5340 /* CSSNetworkClient.m */; };
 		5B337848E30EB2DBBF32E54C50D7E06F /* NSKeyedUnarchiver+Addition.h in Headers */ = {isa = PBXBuildFile; fileRef = A107715CB787E4721EBC3A396C167617 /* NSKeyedUnarchiver+Addition.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5C25C77D3876C4EFAC367A2F4A06E2B9 /* NSDate+Addition.m in Sources */ = {isa = PBXBuildFile; fileRef = E0E0469A34E6DC5844C16B503C05F697 /* NSDate+Addition.m */; };
+		6024020F878818C525E7C4C0574AF595 /* Pods-CSSNetworkClient_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 98C7E9FAC23452E86E3E747DB2D8D6CF /* Pods-CSSNetworkClient_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		63B370B6B671E6D6BC601237A3425F60 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 16024C05F422FA46EFBD10CDC2E657D8 /* Foundation.framework */; };
+		63F00AACFA1318CBC2887E3EACC2321C /* CSSNetworkClient-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DF48256AD8509517F906AE5226B990EB /* CSSNetworkClient-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6A24EF4C9B295DDAA2EBB46FC88B068D /* NSString+Addition.h in Headers */ = {isa = PBXBuildFile; fileRef = 5E152C957CAE280F7209FCEFE57000BC /* NSString+Addition.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6A6C4A15471424A2BCC7A61DCEF3ECF0 /* CSSHTTPOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = DB9B77C740ED892B0177C3C9EB07F252 /* CSSHTTPOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6CE61BACBE703A9646301417408D904F /* NSString+Addition.m in Sources */ = {isa = PBXBuildFile; fileRef = 3105CF02CD9324C5D6F51A924FC3B843 /* NSString+Addition.m */; };
 		7450E86306A8C29E5D9A6FE349901AE3 /* NSArray+Addition.h in Headers */ = {isa = PBXBuildFile; fileRef = A6C4DF09EBB1B0E1BB802F8FB956E334 /* NSArray+Addition.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		816AE60FF136F7968AC29370BA962F0A /* NSObject+Addition.m in Sources */ = {isa = PBXBuildFile; fileRef = DC774525686ED014D59FC189B95CBBDE /* NSObject+Addition.m */; };
 		858ABD0D6344BAE3C2EDD0A83F6FF22A /* Pods-CSSNetworkClient_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F16105C33A99717DE98C3455062C0DF7 /* Pods-CSSNetworkClient_Tests-dummy.m */; };
 		85BB858A276A19D9C7F076DE6817D327 /* UIView+Addition.h in Headers */ = {isa = PBXBuildFile; fileRef = 80ED65E62D249F26AA8E42FDC51BFBF4 /* UIView+Addition.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		AD2348A6821F5FA52220E4F8A1918BEE /* Pods-CSSNetworkClient_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 98C7E9FAC23452E86E3E747DB2D8D6CF /* Pods-CSSNetworkClient_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B5544148B54E7D8404ADE6C6BC36CE78 /* Pods-CSSNetworkClient_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EE197233A887028655C8040618A0D3A6 /* Pods-CSSNetworkClient_Example-dummy.m */; };
-		BF14928221B6B69F0067C73C /* CSSHTTPOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = BF14928021B6B69F0067C73C /* CSSHTTPOperation.h */; };
-		BF14928321B6B69F0067C73C /* CSSHTTPOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = BF14928121B6B69F0067C73C /* CSSHTTPOperation.m */; };
-		BF14928621B6B8E30067C73C /* CSSNetworkClient.h in Headers */ = {isa = PBXBuildFile; fileRef = BF14928421B6B8E30067C73C /* CSSNetworkClient.h */; };
-		BF14928721B6B8E30067C73C /* CSSNetworkClient.m in Sources */ = {isa = PBXBuildFile; fileRef = BF14928521B6B8E30067C73C /* CSSNetworkClient.m */; };
+		920803CAC53DEF7A4DF205DF12B82136 /* CSSNetworkClient.h in Headers */ = {isa = PBXBuildFile; fileRef = B553718C76E2058C8C1717D0CB78C4F2 /* CSSNetworkClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9D1DFDADD06CD6ECF37808D1C3D36226 /* CSSNetworkClient-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 12A32B5BFE62CCF4DFE3A73E07E1E359 /* CSSNetworkClient-dummy.m */; };
 		C3467A0C62C67783EF26292AD8ECF973 /* NSData+Addition.h in Headers */ = {isa = PBXBuildFile; fileRef = AB8F1393C6B30DC7BC5183A065EB4A7B /* NSData+Addition.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C3B6E86BAB67872B11F5E6E786D50081 /* NSData+Addition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2336ABFCF45BB0ABD5EC434F4F7E4925 /* NSData+Addition.m */; };
 		D99C565CD6DAA7E7C0AE9B94032D8357 /* NSKeyedUnarchiver+Addition.m in Sources */ = {isa = PBXBuildFile; fileRef = E44D8916E0FA6B50052C3CE4222C8D81 /* NSKeyedUnarchiver+Addition.m */; };
 		E8F0C9F3DCC9518C9869F36CB136A9E4 /* NSArray+Addition.m in Sources */ = {isa = PBXBuildFile; fileRef = 55D3C79953CB8E59BB5F4F4D61ACC30D /* NSArray+Addition.m */; };
-		F1C5F08D3C186758AED301B185F4227C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		F1C5F08D3C186758AED301B185F4227C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 16024C05F422FA46EFBD10CDC2E657D8 /* Foundation.framework */; };
 		F564639A5FDD90CECA1031DDF75B99D9 /* NSObject+Addition.h in Headers */ = {isa = PBXBuildFile; fileRef = 246FC0FEE40C6AEEC888AEE6CE038884 /* NSObject+Addition.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F7A1AE547C5D50517145A42ADD86D261 /* Pods-CSSNetworkClient_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7FC7C5207B5749B86DBBC245A87F1F0B /* Pods-CSSNetworkClient_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		D260EF1D3A4C7885E50833E104F1E02F /* PBXContainerItemProxy */ = {
+		13C4B42E9243C9FD2DCDA67C25554ACC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F3B286F22FAAF75A6BE15E3052E4E9B3;
+			remoteInfo = CSSKit;
+		};
+		8501F511AD55C32A3428E4ACDBCC7A13 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
@@ -53,40 +64,50 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = C9E3E65B0B79259462321CB15E26D1B6;
+			remoteGlobalIDString = F268F2672C82FBA33EE6AEC7C3D3247F;
 			remoteInfo = "Pods-CSSNetworkClient_Example";
+		};
+		E825A8B579CEF476BFC64A4225E50BFB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4E52687170C912D11846E14F05D72D3C;
+			remoteInfo = CSSNetworkClient;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		012E645307CBD93DC0055C80F16BC2E4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		05D843AAEC2B7649D2D7DD6666AD5340 /* CSSNetworkClient.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CSSNetworkClient.m; path = CSSNetworkClient/Classes/CSSNetworkClient.m; sourceTree = "<group>"; };
+		12A32B5BFE62CCF4DFE3A73E07E1E359 /* CSSNetworkClient-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CSSNetworkClient-dummy.m"; sourceTree = "<group>"; };
+		16024C05F422FA46EFBD10CDC2E657D8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		186BEC42CB251EE99B83C2C88F4AE7AE /* CSSCGUtilities.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CSSCGUtilities.m; path = CSSKit/Classes/Quartz/CSSCGUtilities.m; sourceTree = "<group>"; };
+		1A8690FA53A7D483A661690CB7DE1369 /* Pods_CSSNetworkClient_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CSSNetworkClient_Example.framework; path = "Pods-CSSNetworkClient_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		228F17FE6BDD2A851E0E246CEA6D8BA6 /* Pods-CSSNetworkClient_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CSSNetworkClient_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		2336ABFCF45BB0ABD5EC434F4F7E4925 /* NSData+Addition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSData+Addition.m"; path = "CSSKit/Classes/Foundation/NSData+Addition.m"; sourceTree = "<group>"; };
+		23578FAFE98375ECAE7C53C2061D9983 /* CSSNetworkClient.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CSSNetworkClient.modulemap; sourceTree = "<group>"; };
 		246FC0FEE40C6AEEC888AEE6CE038884 /* NSObject+Addition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSObject+Addition.h"; path = "CSSKit/Classes/Foundation/NSObject+Addition.h"; sourceTree = "<group>"; };
+		2A5925E0DD8268D3BD6BB718A2327E7F /* CSSKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CSSKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CDD81E5D9D26A84AB5DE62A4E440429 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2DED5637D8D4556741BC4D3CC4ED9565 /* Pods-CSSNetworkClient_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CSSNetworkClient_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		3071A2B21CBAA938BBE4701FC3A5E9A2 /* CSSNetworkClient.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = CSSNetworkClient.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3105CF02CD9324C5D6F51A924FC3B843 /* NSString+Addition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+Addition.m"; path = "CSSKit/Classes/Foundation/NSString+Addition.m"; sourceTree = "<group>"; };
 		3169CC896EFB77F8D8CEC91800496BD8 /* Pods-CSSNetworkClient_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CSSNetworkClient_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		32E8CAA6F97D725B89B4B4531CA4B008 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		38F17FC743CE8F18537E88C48330F8B2 /* Pods-CSSNetworkClient_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CSSNetworkClient_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		48D79A13D10C2B8D7504DF6BE6BBDDBF /* CSSNetworkClient.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CSSNetworkClient.xcconfig; sourceTree = "<group>"; };
 		4C083A4ADECBEA55AA9A9F30E661CFF1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		514C38D9E5D319A25573315055461A7C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		55D3C79953CB8E59BB5F4F4D61ACC30D /* NSArray+Addition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+Addition.m"; path = "CSSKit/Classes/Foundation/NSArray+Addition.m"; sourceTree = "<group>"; };
-		5807273D3C17B966BCABE4E350423B73 /* Pods_CSSNetworkClient_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CSSNetworkClient_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		5C26F081AB76B9D103F5B5BBE890BC4E /* CSSMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CSSMacros.h; path = CSSKit/Classes/Macros/CSSMacros.h; sourceTree = "<group>"; };
 		5E152C957CAE280F7209FCEFE57000BC /* NSString+Addition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+Addition.h"; path = "CSSKit/Classes/Foundation/NSString+Addition.h"; sourceTree = "<group>"; };
 		5E77CEB8F1203793AC0EFBD70FCE1BAF /* Pods-CSSNetworkClient_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CSSNetworkClient_Tests-resources.sh"; sourceTree = "<group>"; };
+		669722CA786D12B637631E9131EEFA48 /* CSSNetworkClient.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = CSSNetworkClient.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6802724DE6F9630858ADC5986FDC6B84 /* NSDictionary+Addition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDictionary+Addition.m"; path = "CSSKit/Classes/Foundation/NSDictionary+Addition.m"; sourceTree = "<group>"; };
 		6FF4D1DF86CD586195DD862D750E5EB2 /* Pods-CSSNetworkClient_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CSSNetworkClient_Example-frameworks.sh"; sourceTree = "<group>"; };
 		703F6A4EAAC035F9167474B8F2E41B3D /* NSDictionary+Addition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDictionary+Addition.h"; path = "CSSKit/Classes/Foundation/NSDictionary+Addition.h"; sourceTree = "<group>"; };
 		7323649B46556DEAF4CECABE3CDD1ED4 /* Pods-CSSNetworkClient_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CSSNetworkClient_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		7FC7C5207B5749B86DBBC245A87F1F0B /* Pods-CSSNetworkClient_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CSSNetworkClient_Tests-umbrella.h"; sourceTree = "<group>"; };
 		80ED65E62D249F26AA8E42FDC51BFBF4 /* UIView+Addition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Addition.h"; path = "CSSKit/Classes/UI/UIView+Addition.h"; sourceTree = "<group>"; };
-		814B280BCAACDEF10E9821C8A4A176A6 /* Pods_CSSNetworkClient_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CSSNetworkClient_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		84AD1C5EF2247E6D3223A3AD2FF4ECF4 /* Pods-CSSNetworkClient_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CSSNetworkClient_Tests.modulemap"; sourceTree = "<group>"; };
-		8B32E1089E99F9DD2DD2D334E75014DC /* CSSKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CSSKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		98C7E9FAC23452E86E3E747DB2D8D6CF /* Pods-CSSNetworkClient_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CSSNetworkClient_Example-umbrella.h"; sourceTree = "<group>"; };
 		9B86BFDA5822D050093331DAAFCC7357 /* CSSKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CSSKit.modulemap; sourceTree = "<group>"; };
 		9C186F884A6F9359D7EE85A574FA98FA /* NSDate+Addition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDate+Addition.h"; path = "CSSKit/Classes/Foundation/NSDate+Addition.h"; sourceTree = "<group>"; };
@@ -94,31 +115,44 @@
 		A107715CB787E4721EBC3A396C167617 /* NSKeyedUnarchiver+Addition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSKeyedUnarchiver+Addition.h"; path = "CSSKit/Classes/Foundation/NSKeyedUnarchiver+Addition.h"; sourceTree = "<group>"; };
 		A23BDAC6D9FC6F6F1B591B795AB85DA7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A6C4DF09EBB1B0E1BB802F8FB956E334 /* NSArray+Addition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+Addition.h"; path = "CSSKit/Classes/Foundation/NSArray+Addition.h"; sourceTree = "<group>"; };
+		A885FF84882ABB49AC186A8B2E571A95 /* Pods_CSSNetworkClient_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CSSNetworkClient_Tests.framework; path = "Pods-CSSNetworkClient_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB8F1393C6B30DC7BC5183A065EB4A7B /* NSData+Addition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSData+Addition.h"; path = "CSSKit/Classes/Foundation/NSData+Addition.h"; sourceTree = "<group>"; };
 		B1A6B5E115B4DE8642CB6F22A298D424 /* CSSKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CSSKit-umbrella.h"; sourceTree = "<group>"; };
+		B553718C76E2058C8C1717D0CB78C4F2 /* CSSNetworkClient.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CSSNetworkClient.h; path = CSSNetworkClient/Classes/CSSNetworkClient.h; sourceTree = "<group>"; };
+		BC4DFA0B89ED589F6432D211C6100EC0 /* CSSNetworkClient.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CSSNetworkClient.framework; path = CSSNetworkClient.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC87C0C3BBD405BF7CA61CB1A38DD0F6 /* Pods-CSSNetworkClient_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CSSNetworkClient_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		BE599865B8E8DE7EC1F8A8B2FAF713E6 /* Pods-CSSNetworkClient_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CSSNetworkClient_Example-resources.sh"; sourceTree = "<group>"; };
-		BF14928021B6B69F0067C73C /* CSSHTTPOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = CSSHTTPOperation.h; path = CSSNetworkClient/Classes/CSSHTTPOperation.h; sourceTree = "<group>"; };
-		BF14928121B6B69F0067C73C /* CSSHTTPOperation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = CSSHTTPOperation.m; path = CSSNetworkClient/Classes/CSSHTTPOperation.m; sourceTree = "<group>"; };
-		BF14928421B6B8E30067C73C /* CSSNetworkClient.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = CSSNetworkClient.h; path = CSSNetworkClient/Classes/CSSNetworkClient.h; sourceTree = "<group>"; };
-		BF14928521B6B8E30067C73C /* CSSNetworkClient.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = CSSNetworkClient.m; path = CSSNetworkClient/Classes/CSSNetworkClient.m; sourceTree = "<group>"; };
 		C77DD0C86B93C8DD4CBF8DF407CF280F /* CSSKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CSSKit-dummy.m"; sourceTree = "<group>"; };
 		C933C0160490B309AC2D571303D75B7D /* CSSKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CSSKit.xcconfig; sourceTree = "<group>"; };
 		CA9F5FA3F1B183B93931124286D1B33D /* CSSCGUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CSSCGUtilities.h; path = CSSKit/Classes/Quartz/CSSCGUtilities.h; sourceTree = "<group>"; };
 		CB44E91FF7470B73D509A7A9B1383DDC /* Pods-CSSNetworkClient_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CSSNetworkClient_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		D1438ADB047D0FF6DB88C58668718AE1 /* Pods-CSSNetworkClient_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CSSNetworkClient_Example.modulemap"; sourceTree = "<group>"; };
+		D206E195AF03E88F60E2CDB033B0546C /* CSSNetworkClient-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CSSNetworkClient-prefix.pch"; sourceTree = "<group>"; };
 		D419A9AB551570470042C0E5B19C043B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8CCED1F353F2B2973AA74E779BF139E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		DB9B77C740ED892B0177C3C9EB07F252 /* CSSHTTPOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CSSHTTPOperation.h; path = CSSNetworkClient/Classes/CSSHTTPOperation.h; sourceTree = "<group>"; };
 		DC774525686ED014D59FC189B95CBBDE /* NSObject+Addition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSObject+Addition.m"; path = "CSSKit/Classes/Foundation/NSObject+Addition.m"; sourceTree = "<group>"; };
+		DF48256AD8509517F906AE5226B990EB /* CSSNetworkClient-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CSSNetworkClient-umbrella.h"; sourceTree = "<group>"; };
 		E0E0469A34E6DC5844C16B503C05F697 /* NSDate+Addition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+Addition.m"; path = "CSSKit/Classes/Foundation/NSDate+Addition.m"; sourceTree = "<group>"; };
 		E44D8916E0FA6B50052C3CE4222C8D81 /* NSKeyedUnarchiver+Addition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSKeyedUnarchiver+Addition.m"; path = "CSSKit/Classes/Foundation/NSKeyedUnarchiver+Addition.m"; sourceTree = "<group>"; };
 		EE197233A887028655C8040618A0D3A6 /* Pods-CSSNetworkClient_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CSSNetworkClient_Example-dummy.m"; sourceTree = "<group>"; };
 		F16105C33A99717DE98C3455062C0DF7 /* Pods-CSSNetworkClient_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CSSNetworkClient_Tests-dummy.m"; sourceTree = "<group>"; };
 		F69B81B3BDADBC0FDCD40A0176DBCB4F /* Pods-CSSNetworkClient_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CSSNetworkClient_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		F7D90CEB5A6D408CCDE66555943D7650 /* UIView+Addition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Addition.m"; path = "CSSKit/Classes/UI/UIView+Addition.m"; sourceTree = "<group>"; };
+		F9C920AE42B507C75A565E484780ADB7 /* CSSHTTPOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CSSHTTPOperation.m; path = CSSNetworkClient/Classes/CSSHTTPOperation.m; sourceTree = "<group>"; };
+		FDD135B09A1CDCB90A8EFB9CAECEFFC5 /* CSSKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CSSKit.framework; path = CSSKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF68D38CFA1D9BCD63EF946251F3DBB4 /* Pods-CSSNetworkClient_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CSSNetworkClient_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		01B4F09E9ACEC5D5962717DDC317BFE1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63B370B6B671E6D6BC601237A3425F60 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		194C93A033275B0B8EA35BCFF0A085F4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -127,11 +161,12 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		54C0E14B6DCCD0056D68610C0C3E9F8B /* Frameworks */ = {
+		41A760AE11133CDAA1A75C9B32CB3B83 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				508C74A1E1C512D6569E87F3BA730F36 /* Foundation.framework in Frameworks */,
+				4AE427B3CFE1C8F17377AC3F00141E8F /* CSSKit.framework in Frameworks */,
+				4C0C900722AC4253365F710C889B7A19 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -175,14 +210,12 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		3FE04D1A5D99DF93ED342E6854F8B6F7 /* Pod */ = {
+		2FE882835B857C3984E4B111D33F0D1E /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				3071A2B21CBAA938BBE4701FC3A5E9A2 /* CSSNetworkClient.podspec */,
-				514C38D9E5D319A25573315055461A7C /* LICENSE */,
-				32E8CAA6F97D725B89B4B4531CA4B008 /* README.md */,
+				16024C05F422FA46EFBD10CDC2E657D8 /* Foundation.framework */,
 			);
-			name = Pod;
+			name = iOS;
 			sourceTree = "<group>";
 		};
 		4EA7B651DE4C88B870EE5084B763A097 /* Quartz */ = {
@@ -203,15 +236,8 @@
 				7B4D57B9A78498C5057C5E4C174D0901 /* Support Files */,
 				74179F6D918470ACE2676A4FE9EC76B4 /* UI */,
 			);
+			name = CSSKit;
 			path = CSSKit;
-			sourceTree = "<group>";
-		};
-		5E0D919E635D23B70123790B8308F8EF /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */,
-			);
-			name = iOS;
 			sourceTree = "<group>";
 		};
 		74179F6D918470ACE2676A4FE9EC76B4 /* UI */ = {
@@ -221,6 +247,20 @@
 				F7D90CEB5A6D408CCDE66555943D7650 /* UIView+Addition.m */,
 			);
 			name = UI;
+			sourceTree = "<group>";
+		};
+		7518CCA44EFC2CE2872EF9CB754206AE /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				23578FAFE98375ECAE7C53C2061D9983 /* CSSNetworkClient.modulemap */,
+				48D79A13D10C2B8D7504DF6BE6BBDDBF /* CSSNetworkClient.xcconfig */,
+				12A32B5BFE62CCF4DFE3A73E07E1E359 /* CSSNetworkClient-dummy.m */,
+				D206E195AF03E88F60E2CDB033B0546C /* CSSNetworkClient-prefix.pch */,
+				DF48256AD8509517F906AE5226B990EB /* CSSNetworkClient-umbrella.h */,
+				2CDD81E5D9D26A84AB5DE62A4E440429 /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/CSSNetworkClient";
 			sourceTree = "<group>";
 		};
 		7B4D57B9A78498C5057C5E4C174D0901 /* Support Files */ = {
@@ -241,10 +281,10 @@
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				894620552FA8ED42CC0A90960C2B5713 /* Development Pods */,
-				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				85BFBFF28D3A7D3F9318DF59B61FC9F6 /* Development Pods */,
+				B84E42A38C344F791F56742DA2E98B60 /* Frameworks */,
 				2B053D860C6F9D0B55DAA2E5C53D780B /* Pods */,
-				D06875BD21431DEBF57E861B26D860F4 /* Products */,
+				B68537C8E6C4AD9575CBBCFC3F1F348F /* Products */,
 				B860AE2D92DC1BB53A9925D2F50D406F /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -257,25 +297,42 @@
 			name = Macros;
 			sourceTree = "<group>";
 		};
-		894620552FA8ED42CC0A90960C2B5713 /* Development Pods */ = {
+		85BFBFF28D3A7D3F9318DF59B61FC9F6 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				B706099B3CB3FE175A56B33C6931F9EE /* CSSNetworkClient */,
+				F3553DF59427C0BEBD643BA5B131BDF6 /* CSSNetworkClient */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		B706099B3CB3FE175A56B33C6931F9EE /* CSSNetworkClient */ = {
+		9E72DD283EBB2449FB25E45245C7BF7B /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				3FE04D1A5D99DF93ED342E6854F8B6F7 /* Pod */,
-				BF14928021B6B69F0067C73C /* CSSHTTPOperation.h */,
-				BF14928121B6B69F0067C73C /* CSSHTTPOperation.m */,
-				BF14928421B6B8E30067C73C /* CSSNetworkClient.h */,
-				BF14928521B6B8E30067C73C /* CSSNetworkClient.m */,
+				669722CA786D12B637631E9131EEFA48 /* CSSNetworkClient.podspec */,
+				012E645307CBD93DC0055C80F16BC2E4 /* LICENSE */,
+				D8CCED1F353F2B2973AA74E779BF139E /* README.md */,
 			);
-			name = CSSNetworkClient;
-			path = ../..;
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		B68537C8E6C4AD9575CBBCFC3F1F348F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FDD135B09A1CDCB90A8EFB9CAECEFFC5 /* CSSKit.framework */,
+				BC4DFA0B89ED589F6432D211C6100EC0 /* CSSNetworkClient.framework */,
+				1A8690FA53A7D483A661690CB7DE1369 /* Pods_CSSNetworkClient_Example.framework */,
+				A885FF84882ABB49AC186A8B2E571A95 /* Pods_CSSNetworkClient_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B84E42A38C344F791F56742DA2E98B60 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2A5925E0DD8268D3BD6BB718A2327E7F /* CSSKit.framework */,
+				2FE882835B857C3984E4B111D33F0D1E /* iOS */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		B860AE2D92DC1BB53A9925D2F50D406F /* Targets Support Files */ = {
@@ -285,24 +342,6 @@
 				FA9C397FC827CB07C2DC805A7F26E123 /* Pods-CSSNetworkClient_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				5E0D919E635D23B70123790B8308F8EF /* iOS */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		D06875BD21431DEBF57E861B26D860F4 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				8B32E1089E99F9DD2DD2D334E75014DC /* CSSKit.framework */,
-				5807273D3C17B966BCABE4E350423B73 /* Pods_CSSNetworkClient_Example.framework */,
-				814B280BCAACDEF10E9821C8A4A176A6 /* Pods_CSSNetworkClient_Tests.framework */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		E915D12A9BAB737221FC9C9011D6B345 /* Pods-CSSNetworkClient_Example */ = {
@@ -321,6 +360,20 @@
 			);
 			name = "Pods-CSSNetworkClient_Example";
 			path = "Target Support Files/Pods-CSSNetworkClient_Example";
+			sourceTree = "<group>";
+		};
+		F3553DF59427C0BEBD643BA5B131BDF6 /* CSSNetworkClient */ = {
+			isa = PBXGroup;
+			children = (
+				DB9B77C740ED892B0177C3C9EB07F252 /* CSSHTTPOperation.h */,
+				F9C920AE42B507C75A565E484780ADB7 /* CSSHTTPOperation.m */,
+				B553718C76E2058C8C1717D0CB78C4F2 /* CSSNetworkClient.h */,
+				05D843AAEC2B7649D2D7DD6666AD5340 /* CSSNetworkClient.m */,
+				9E72DD283EBB2449FB25E45245C7BF7B /* Pod */,
+				7518CCA44EFC2CE2872EF9CB754206AE /* Support Files */,
+			);
+			name = CSSNetworkClient;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		FA9C397FC827CB07C2DC805A7F26E123 /* Pods-CSSNetworkClient_Tests */ = {
@@ -344,6 +397,14 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		0E3BFE984DB450B701AEC8137F41192B /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6024020F878818C525E7C4C0574AF595 /* Pods-CSSNetworkClient_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		10795788869BE8DBF4E53479B659148D /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -352,11 +413,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		397344B1FC0281590D77335502911C70 /* Headers */ = {
+		B889FE61FE61CA4A7F31C6F0786A09F9 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AD2348A6821F5FA52220E4F8A1918BEE /* Pods-CSSNetworkClient_Example-umbrella.h in Headers */,
+				6A6C4A15471424A2BCC7A61DCEF3ECF0 /* CSSHTTPOperation.h in Headers */,
+				63F00AACFA1318CBC2887E3EACC2321C /* CSSNetworkClient-umbrella.h in Headers */,
+				920803CAC53DEF7A4DF205DF12B82136 /* CSSNetworkClient.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -368,14 +431,12 @@
 				24D3C4E5BA1B7E24B7C2D08380EEC18C /* CSSKit-umbrella.h in Headers */,
 				1AF3D6A9BAFCAEC3D649A00C4B705208 /* CSSMacros.h in Headers */,
 				7450E86306A8C29E5D9A6FE349901AE3 /* NSArray+Addition.h in Headers */,
-				BF14928621B6B8E30067C73C /* CSSNetworkClient.h in Headers */,
 				C3467A0C62C67783EF26292AD8ECF973 /* NSData+Addition.h in Headers */,
 				496E7D0EC4E9DD1CB38CF1C8D0BD1E6B /* NSDate+Addition.h in Headers */,
 				251549E5AFFBD27B0784AB4BA735FB36 /* NSDictionary+Addition.h in Headers */,
 				5B337848E30EB2DBBF32E54C50D7E06F /* NSKeyedUnarchiver+Addition.h in Headers */,
 				F564639A5FDD90CECA1031DDF75B99D9 /* NSObject+Addition.h in Headers */,
 				6A24EF4C9B295DDAA2EBB46FC88B068D /* NSString+Addition.h in Headers */,
-				BF14928221B6B69F0067C73C /* CSSHTTPOperation.h in Headers */,
 				85BB858A276A19D9C7F076DE6817D327 /* UIView+Addition.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -383,6 +444,25 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
+		4E52687170C912D11846E14F05D72D3C /* CSSNetworkClient */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 72401F4BDC4BA12AF55B51FFEE5B621D /* Build configuration list for PBXNativeTarget "CSSNetworkClient" */;
+			buildPhases = (
+				B889FE61FE61CA4A7F31C6F0786A09F9 /* Headers */,
+				DDB84C69B34B190ED5F662483397F2AD /* Sources */,
+				41A760AE11133CDAA1A75C9B32CB3B83 /* Frameworks */,
+				651D04A71613A86AFF3695F5C3051195 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C76E346F92A327EA00EF2B1EC05EAB05 /* PBXTargetDependency */,
+			);
+			name = CSSNetworkClient;
+			productName = CSSNetworkClient;
+			productReference = BC4DFA0B89ED589F6432D211C6100EC0 /* CSSNetworkClient.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 		6AEB9E05C59762B06C71DC9EAD317FD4 /* Pods-CSSNetworkClient_Tests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = CE7AF3A8F5DD73E5A8B81E43F3E9A8B5 /* Build configuration list for PBXNativeTarget "Pods-CSSNetworkClient_Tests" */;
@@ -399,26 +479,27 @@
 			);
 			name = "Pods-CSSNetworkClient_Tests";
 			productName = "Pods-CSSNetworkClient_Tests";
-			productReference = 814B280BCAACDEF10E9821C8A4A176A6 /* Pods_CSSNetworkClient_Tests.framework */;
+			productReference = A885FF84882ABB49AC186A8B2E571A95 /* Pods_CSSNetworkClient_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		C9E3E65B0B79259462321CB15E26D1B6 /* Pods-CSSNetworkClient_Example */ = {
+		F268F2672C82FBA33EE6AEC7C3D3247F /* Pods-CSSNetworkClient_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8F70273DEA20DADBC9F4B195FCE0A800 /* Build configuration list for PBXNativeTarget "Pods-CSSNetworkClient_Example" */;
+			buildConfigurationList = ABC771FF950FC8566F45D024012E7233 /* Build configuration list for PBXNativeTarget "Pods-CSSNetworkClient_Example" */;
 			buildPhases = (
-				397344B1FC0281590D77335502911C70 /* Headers */,
-				EA6507FA0BDBF6F372C08DBE87803C99 /* Sources */,
-				54C0E14B6DCCD0056D68610C0C3E9F8B /* Frameworks */,
-				61E779AF81F798A0C54537A525CB718D /* Resources */,
+				0E3BFE984DB450B701AEC8137F41192B /* Headers */,
+				ADBD48B56A437F8E2F30D1D58AE1A921 /* Sources */,
+				01B4F09E9ACEC5D5962717DDC317BFE1 /* Frameworks */,
+				E1CDB2538F0B1F09070E5523E75FCB30 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				94827D5ABA9FF5DAD65CA39B7E36DE38 /* PBXTargetDependency */,
+				D65BDB1D25E44CB6A835AC9FC33F4F31 /* PBXTargetDependency */,
+				F1033CCE041165B6944626F8106E989D /* PBXTargetDependency */,
 			);
 			name = "Pods-CSSNetworkClient_Example";
 			productName = "Pods-CSSNetworkClient_Example";
-			productReference = 5807273D3C17B966BCABE4E350423B73 /* Pods_CSSNetworkClient_Example.framework */;
+			productReference = 1A8690FA53A7D483A661690CB7DE1369 /* Pods_CSSNetworkClient_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		F3B286F22FAAF75A6BE15E3052E4E9B3 /* CSSKit */ = {
@@ -436,7 +517,7 @@
 			);
 			name = CSSKit;
 			productName = CSSKit;
-			productReference = 8B32E1089E99F9DD2DD2D334E75014DC /* CSSKit.framework */;
+			productReference = FDD135B09A1CDCB90A8EFB9CAECEFFC5 /* CSSKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -456,12 +537,13 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = D06875BD21431DEBF57E861B26D860F4 /* Products */;
+			productRefGroup = B68537C8E6C4AD9575CBBCFC3F1F348F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				F3B286F22FAAF75A6BE15E3052E4E9B3 /* CSSKit */,
-				C9E3E65B0B79259462321CB15E26D1B6 /* Pods-CSSNetworkClient_Example */,
+				4E52687170C912D11846E14F05D72D3C /* CSSNetworkClient */,
+				F268F2672C82FBA33EE6AEC7C3D3247F /* Pods-CSSNetworkClient_Example */,
 				6AEB9E05C59762B06C71DC9EAD317FD4 /* Pods-CSSNetworkClient_Tests */,
 			);
 		};
@@ -482,7 +564,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		61E779AF81F798A0C54537A525CB718D /* Resources */ = {
+		651D04A71613A86AFF3695F5C3051195 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E1CDB2538F0B1F09070E5523E75FCB30 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -511,45 +600,64 @@
 				5C25C77D3876C4EFAC367A2F4A06E2B9 /* NSDate+Addition.m in Sources */,
 				089F4386825942714A53C453D8E235FE /* NSDictionary+Addition.m in Sources */,
 				D99C565CD6DAA7E7C0AE9B94032D8357 /* NSKeyedUnarchiver+Addition.m in Sources */,
-				BF14928721B6B8E30067C73C /* CSSNetworkClient.m in Sources */,
 				816AE60FF136F7968AC29370BA962F0A /* NSObject+Addition.m in Sources */,
 				6CE61BACBE703A9646301417408D904F /* NSString+Addition.m in Sources */,
-				BF14928321B6B69F0067C73C /* CSSHTTPOperation.m in Sources */,
 				0B55685150056709DE5B2B1F22A93044 /* UIView+Addition.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EA6507FA0BDBF6F372C08DBE87803C99 /* Sources */ = {
+		ADBD48B56A437F8E2F30D1D58AE1A921 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B5544148B54E7D8404ADE6C6BC36CE78 /* Pods-CSSNetworkClient_Example-dummy.m in Sources */,
+				51246BC3B051C63EBA40503D401A4AED /* Pods-CSSNetworkClient_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DDB84C69B34B190ED5F662483397F2AD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24CD50C7FBC909CAF8F6314D7B34D5A5 /* CSSHTTPOperation.m in Sources */,
+				9D1DFDADD06CD6ECF37808D1C3D36226 /* CSSNetworkClient-dummy.m in Sources */,
+				54C80FB0DCD42CA71CEDD46147E19BAF /* CSSNetworkClient.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		94827D5ABA9FF5DAD65CA39B7E36DE38 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = CSSKit;
-			target = F3B286F22FAAF75A6BE15E3052E4E9B3 /* CSSKit */;
-			targetProxy = D260EF1D3A4C7885E50833E104F1E02F /* PBXContainerItemProxy */;
-		};
 		9C69CD35E32253C38231D71C03E3BE7B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-CSSNetworkClient_Example";
-			target = C9E3E65B0B79259462321CB15E26D1B6 /* Pods-CSSNetworkClient_Example */;
+			target = F268F2672C82FBA33EE6AEC7C3D3247F /* Pods-CSSNetworkClient_Example */;
 			targetProxy = DD503291BA124BBE6BA4D15209BAFB1A /* PBXContainerItemProxy */;
+		};
+		C76E346F92A327EA00EF2B1EC05EAB05 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = CSSKit;
+			target = F3B286F22FAAF75A6BE15E3052E4E9B3 /* CSSKit */;
+			targetProxy = 8501F511AD55C32A3428E4ACDBCC7A13 /* PBXContainerItemProxy */;
+		};
+		D65BDB1D25E44CB6A835AC9FC33F4F31 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = CSSKit;
+			target = F3B286F22FAAF75A6BE15E3052E4E9B3 /* CSSKit */;
+			targetProxy = 13C4B42E9243C9FD2DCDA67C25554ACC /* PBXContainerItemProxy */;
+		};
+		F1033CCE041165B6944626F8106E989D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = CSSNetworkClient;
+			target = 4E52687170C912D11846E14F05D72D3C /* CSSNetworkClient */;
+			targetProxy = E825A8B579CEF476BFC64A4225E50BFB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		1FFA011FFEB2BF08BBEB5C463FD99CD8 /* Debug */ = {
+		32D335D9E0994499BD9B5A6F7AA31F83 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 228F17FE6BDD2A851E0E246CEA6D8BA6 /* Pods-CSSNetworkClient_Example.debug.xcconfig */;
+			baseConfigurationReference = 48D79A13D10C2B8D7504DF6BE6BBDDBF /* CSSNetworkClient.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -559,19 +667,17 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-CSSNetworkClient_Example/Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/CSSNetworkClient/CSSNetworkClient-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/CSSNetworkClient/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-CSSNetworkClient_Example/Pods-CSSNetworkClient_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				MODULEMAP_FILE = "Target Support Files/CSSNetworkClient/CSSNetworkClient.modulemap";
+				PRODUCT_MODULE_NAME = CSSNetworkClient;
+				PRODUCT_NAME = CSSNetworkClient;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -634,6 +740,40 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		96C92A36B1ABD985F650B7F523F9C0C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FF68D38CFA1D9BCD63EF946251F3DBB4 /* Pods-CSSNetworkClient_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-CSSNetworkClient_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-CSSNetworkClient_Example/Pods-CSSNetworkClient_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
 		};
@@ -701,6 +841,39 @@
 			};
 			name = Debug;
 		};
+		C4962D03B145699CC7F3AEB64CDC2AD0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 228F17FE6BDD2A851E0E246CEA6D8BA6 /* Pods-CSSNetworkClient_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-CSSNetworkClient_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-CSSNetworkClient_Example/Pods-CSSNetworkClient_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		C55F8C0310139E0B7422FB4BF94FC436 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3169CC896EFB77F8D8CEC91800496BD8 /* Pods-CSSNetworkClient_Tests.release.xcconfig */;
@@ -765,40 +938,6 @@
 			};
 			name = Debug;
 		};
-		C6321E75191AB3CA94B37CCE922B6C1E /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FF68D38CFA1D9BCD63EF946251F3DBB4 /* Pods-CSSNetworkClient_Example.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-CSSNetworkClient_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-CSSNetworkClient_Example/Pods-CSSNetworkClient_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		D11B596C939BAD1F97218B8B22AE816D /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C933C0160490B309AC2D571303D75B7D /* CSSKit.xcconfig */;
@@ -820,6 +959,37 @@
 				MODULEMAP_FILE = "Target Support Files/CSSKit/CSSKit.modulemap";
 				PRODUCT_MODULE_NAME = CSSKit;
 				PRODUCT_NAME = CSSKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		D9A5DCC7AD0D2524C3017F371CD94C9F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 48D79A13D10C2B8D7504DF6BE6BBDDBF /* CSSNetworkClient.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/CSSNetworkClient/CSSNetworkClient-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/CSSNetworkClient/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/CSSNetworkClient/CSSNetworkClient.modulemap";
+				PRODUCT_MODULE_NAME = CSSNetworkClient;
+				PRODUCT_NAME = CSSNetworkClient;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
@@ -875,11 +1045,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8F70273DEA20DADBC9F4B195FCE0A800 /* Build configuration list for PBXNativeTarget "Pods-CSSNetworkClient_Example" */ = {
+		72401F4BDC4BA12AF55B51FFEE5B621D /* Build configuration list for PBXNativeTarget "CSSNetworkClient" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1FFA011FFEB2BF08BBEB5C463FD99CD8 /* Debug */,
-				C6321E75191AB3CA94B37CCE922B6C1E /* Release */,
+				32D335D9E0994499BD9B5A6F7AA31F83 /* Debug */,
+				D9A5DCC7AD0D2524C3017F371CD94C9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -889,6 +1059,15 @@
 			buildConfigurations = (
 				C56D15EDBAD783CAFF431757417DD853 /* Debug */,
 				D11B596C939BAD1F97218B8B22AE816D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ABC771FF950FC8566F45D024012E7233 /* Build configuration list for PBXNativeTarget "Pods-CSSNetworkClient_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C4962D03B145699CC7F3AEB64CDC2AD0 /* Debug */,
+				96C92A36B1ABD985F650B7F523F9C0C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "CSSHTTPOperation.h"
+#import "CSSNetworkClient.h"
 
 FOUNDATION_EXPORT double CSSNetworkClientVersionNumber;
 FOUNDATION_EXPORT const unsigned char CSSNetworkClientVersionString[];

@@ -307,12 +307,14 @@
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-CSSNetworkClient_Example/Pods-CSSNetworkClient_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/CSSKit/CSSKit.framework",
+				"${BUILT_PRODUCTS_DIR}/CSSNetworkClient/CSSNetworkClient.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CSSKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CSSNetworkClient.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

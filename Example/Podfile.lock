@@ -8,7 +8,7 @@ PODS:
   - CSSKit/Macros (0.1.6)
   - CSSKit/Quartz (0.1.6)
   - CSSKit/UI (0.1.6)
-  - CSSNetworkClient (0.1.0):
+  - CSSNetworkClient (0.1.1):
     - CSSKit
 
 DEPENDENCIES:
@@ -24,7 +24,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   CSSKit: f0505458713e619f17e56721483880733fe60aa5
-  CSSNetworkClient: 1875711c3f52e8e8c7b0f44dfabadf14ba5bd323
+  CSSNetworkClient: 2eb0b5afd572e08f47778516e6a7aae2cfe478e3
 
 PODFILE CHECKSUM: d08f12a938c9b4753fe0ef43852af81db51a1a3a
 
