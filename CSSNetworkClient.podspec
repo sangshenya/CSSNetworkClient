@@ -32,6 +32,8 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'CSSNetworkClient/Classes/**/*'
   
+  s.dependency 'CSSKit'
+  
   # s.resource_bundles = {
   #   'CSSNetworkClient' => ['CSSNetworkClient/Assets/*.png']
   # }
