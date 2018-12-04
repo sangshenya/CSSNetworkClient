@@ -247,6 +247,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = sangshenya;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = XV36ECQQZA;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -497,6 +500,7 @@
 			baseConfigurationReference = 6D011C0B09F0F4BAF92B63CA /* Pods-CSSNetworkClient_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XV36ECQQZA;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CSSNetworkClient/CSSNetworkClient-Prefix.pch";
 				INFOPLIST_FILE = "CSSNetworkClient/CSSNetworkClient-Info.plist";
@@ -512,6 +516,7 @@
 			baseConfigurationReference = BDC071DD6A523DCA473BA760 /* Pods-CSSNetworkClient_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XV36ECQQZA;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CSSNetworkClient/CSSNetworkClient-Prefix.pch";
 				INFOPLIST_FILE = "CSSNetworkClient/CSSNetworkClient-Info.plist";
